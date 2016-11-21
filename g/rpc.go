@@ -1,7 +1,7 @@
 package g
 
 import (
-	"github.com/dinp/common/rpc"
+	"github.com/smartcaas/common/rpc"
 	"time"
 )
 
