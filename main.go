@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/dinp/agent/cron"
-	"github.com/dinp/agent/g"
+	"github.com/smartcaas/agent/cron"
+	"github.com/smartcaas/agent/g"
 	"os"
 )
 
