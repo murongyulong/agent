@@ -1,9 +1,9 @@
 package cron
 
 import (
-	"github.com/dinp/agent/g"
-	"github.com/dinp/common/dock"
-	"github.com/dinp/common/model"
+	"github.com/smartcaas/agent/g"
+	"github.com/smartcaas/common/dock"
+	"github.com/smartcaas/common/model"
 	"github.com/toolkits/nux"
 	"log"
 	"time"
