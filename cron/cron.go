@@ -10,7 +10,7 @@ import (
 )
 
 func Heartbeat() {
-	duration := time.Duration(g.Config().Interval) * time.Second * 5
+	duration := time.Duration(g.Config().Interval) * time.Second
 	for {
 		heartbeat(duration)
 		time.Sleep(duration)
